@@ -46,7 +46,7 @@
 ---
 
 ### 🌍 Connect With Me
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nayanjaiswal5/)
 - 🏗 [GitHub](#)
 
 🚀 Let's build something amazing together!
